@@ -2,21 +2,7 @@
 
 Chat with Claude AI on a real Commodore 64.
 
-```
-┌──────────────────────────────────────┐
-│  CLAUDE CODE FOR C64                 │
-└──────────────────────────────────────┘
- > HELLO CLAUDE
- HEY! GREETINGS FROM THE FUTURE!
-
- YOU ARE TALKING TO AN AI ON YOUR C64.
- PRETTY WILD, RIGHT? WHAT CAN I DO FOR
- YOU TODAY?
-
-────────────────────────────────────────
-> _
- READY
-```
+![Claude running on a Commodore 64](screenshot.png)
 
 ## How it works
 
