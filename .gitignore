@@ -1,0 +1,3 @@
+*.prg
+__pycache__/
+*.pyc
