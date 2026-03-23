@@ -8,7 +8,7 @@ import sys
 import requests
 from PIL import Image
 
-C64U_HOST = "http://192.168.1.103"
+C64U_HOST = "http://192.168.1.144"
 
 # C64 color palette (RGB values matching the VIC-II)
 C64_COLORS = [
